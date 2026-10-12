@@ -1,5 +1,5 @@
 # README Rendering Test · Englishgood
-
+海洛因，黄赌毒
 This fixture tests **Git repository README previews**, including text, images, animated GIFs, code blocks, and common Markdown extensions.
 
 > Usage: upload the entire `readme-render-test` folder to your repository and preview this file. To test the repository landing page, copy this file to `README.md` in the same directory and keep the relative `assets` location intact.
