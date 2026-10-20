@@ -6,7 +6,7 @@ This fixture tests **Git repository README previews**, including text, images, a
 >
 > Standard Markdown, GitHub Flavored Markdown (GFM), and platform extensions have different support levels. Mermaid, mathematics, footnotes, alerts, and HTML are compatibility probes; evaluate them against your product requirements.
 
-[中文版](./README.zh-CN.md) · [Images and animation](#images) · [Code blocks](#code) · [Extensions](#extensions)
+[中文版](./README_cn.md) · [Images and animation](#images) · [Code blocks](#code) · [Extensions](#extensions)
 
 ## 01. Heading Levels
 
