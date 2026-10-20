@@ -6,7 +6,7 @@
 >
 > 普通 Markdown、GitHub 风格 Markdown（GFM）与各平台扩展支持范围不同。Mermaid、数学公式、脚注、提示块和 HTML 是兼容性探测项，应结合产品需求判断，不能仅因未渲染就认定为缺陷。
 
-[English version](./README.en.md) · [图片与动图](#images) · [代码块](#code) · [扩展格式](#extensions)
+[English version](./README.md) · [图片与动图](#images) · [代码块](#code) · [扩展格式](#extensions)
 
 ## 01. 标题层级
 
